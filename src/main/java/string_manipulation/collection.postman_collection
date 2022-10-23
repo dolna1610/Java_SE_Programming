@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "9a29cd0f-c0ca-4eca-9984-9af3af2872eb",
 		"name": "Dmoney-Agent-API Testing",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",,
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "18235608"
 	},
 	"item": [
